@@ -51,7 +51,7 @@ export default {
         ico: 'el-icon-document',
         name: '桥',
         service_id: ''
-      },{
+      }, {
         index: '0',
         ico: 'el-icon-goods',
         name: '出端口',
